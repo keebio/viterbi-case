@@ -8,7 +8,7 @@ Case pieces
 
 - Switch layer (`viterbi-switch.svg`)
 - Bottom layer (`viterbi-bottom.svg`)
-- Middle layer (`viterbi-middle.svg`) - Not yet added, still needs to be made
+- Middle layer (`viterbi-middle.svg`)
 
 The exterior plate dimensions of these files are 145.55mm x 107.45mm.
 
