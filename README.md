@@ -7,7 +7,7 @@ Case pieces
 -----------
 
 - Switch layer (`viterbi-switch.svg`)
-- Bottom layer (`viterbi-bottom.svg`)
+- Bottom layer (`viterbi-bottom.svg`) *included .stl and .sldprt in 12mm for easier 3D printing*
 - Middle layer (`viterbi-middle.svg`)
 
 The exterior plate dimensions of these files are 145.55mm x 107.45mm.
